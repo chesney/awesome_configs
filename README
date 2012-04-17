@@ -1,1 +1,14 @@
 My awesome window manager configuration file
+
+Setup :
+
+Just copy the rc.lua file to directory ~/.config/awesome 
+
+Restart awesome and your good to go.
+
+* TIP : be sure to install dmenu for available applications
+  feature in the run menu (mod + r)
+
+to install dmenu :
+
+$ sudo apt-get install dmenu
